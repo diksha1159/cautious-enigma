@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iron Man Tribute Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body style="background-color: black;">
+    <h1 style="color: azure; text-align: center;"> IRON MAN </h1>
+    <div style="text-align: center;">
+    <img class="thin-Red-border" src="https://www.thewrap.com/wp-content/uploads/2021/08/Robert-Downey-Jr-Iron-Man.jpg"
+        alt="Iron Man Image" >
+    </div>
+    <p style="color: antiquewhite; font-family: 'Courier New', Courier, monospace; font-size: larger;">Whether it be his sarcasm, his sense of humor, his intelligence, or his relatability, there are many reasons why we love Iron Man</p>
+    <p id="one"><bold>Tony Stark</bold> is the sort of man who can build anything out of almost nothing. The ultimate visionary, inventor, and entrepreneur, Tony Stark approaches the world with the single-minded determination to make it better, and he pretty much delivers</p>
+    <p id="one">When he needs to repair his heart and make an escape? He cobbles together a power source and an armored suit from spare parts. Make the world a safer place? He changes the direction of his armament company overnight. Looking for an alternative energy source for the world? Check out his awesome new clean energy generator. Need the ultimate superhero world defenders? Behold, the Avengers! He’s a man with a vision and the will to make it happen.
+
+        Sensitive to other people feelings? Not at all.
+        
+        Despite being the “big-picture” guy and the “get-things-done” guy all in one outwardly cool package, he’s definitely not the “get-everyone-to-work-together-at-their-full-potential” kind of guy, nor is he always the fount of confidence he projects to the world.
+        
+        He is strongly willful, doesnot work well with any authority other than his own, and will enthusiastically tear down just about anyone who challenges him. He’s complicated, a little self-absorbed, and sometimes moody. We at 16Personalities think he is the ultimate Commander personality type with a seriously Turbulent streak.
+        
+        </p>
+
+    <p id="one">Fortunately for the superhero world, Tony Stark is perceptive enough to identify his shortcomings and find people to shore up his weaknesses.</p>
+    <p id="one"><italic>“It is one thing to question the official story, and another thing entirely to make wild accusations or insinuate that I’m, uh, a superhero... Because that would be outlandish and, uh, fantastic. I’m... just not the hero type. Clearly. With this laundry list of character defects, all the mistakes I’ve made (largely public)...
+        The truth is...
+        I am Iron Man.”</italic>
+        
+        <bold>~TONY STARK</bold></p>
+
+    <p style="color: blanchedalmond;"><a href="https://www.marvel.com/characters/iron-man-tony-stark" target="_blank">Here's More..</a></p>
+
+</body>
+
+</html>
