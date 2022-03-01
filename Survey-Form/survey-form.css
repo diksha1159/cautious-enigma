@@ -1,0 +1,104 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-image:url(https://i.pinimg.com/originals/e2/45/47/e24547b6d0b63924294191179d76e798.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    color: #fff;
+    background-blend-mode: multiply;
+}
+
+.heading{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+#head{
+    font-size: 1.8em;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#subheading{
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+
+#content1{
+    width: 100%;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    color: rgb(251, 251, 250);
+}
+
+
+form{
+background-color: rgba(0,0,0,0.7);
+padding-top: 34px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 74%;
+border-radius: 5px;
+margin: auto;
+margin-top: 10px;
+padding-bottom: 100px; 
+  
+}
+
+form .box{
+  width: auto;
+  height: auto;
+  position: relative;
+  bottom: 10px;
+  border: 0;
+  border-radius: 5px;
+
+}
+
+#option1 select{
+    width: auto;
+    height: auto;
+    position: relative;
+    bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+    
+}
+
+#option2 select{
+    width: auto;
+    height: auto;
+    position: relative;
+    bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+    
+}
+
+#content2 textarea{
+    width: 98.5%;
+    height: 125px;
+    position: relative;
+    bottom: 17px;
+}
+
+button{
+    width: 98.5%;
+    height: 3em;
+    position: relative;
+    top: 11px;
+    background-color: rgb(18, 219, 78);
+    border: none;
+    color: rgb(255, 255, 2555) ;
+}
